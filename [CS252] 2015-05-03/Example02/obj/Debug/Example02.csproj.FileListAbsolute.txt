@@ -1,0 +1,6 @@
+Z:\C#\[CS252] 2015-05-03\Example02\bin\Debug\Example02.exe.config
+Z:\C#\[CS252] 2015-05-03\Example02\bin\Debug\Example02.exe
+Z:\C#\[CS252] 2015-05-03\Example02\bin\Debug\Example02.pdb
+Z:\C#\[CS252] 2015-05-03\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+Z:\C#\[CS252] 2015-05-03\Example02\obj\Debug\Example02.exe
+Z:\C#\[CS252] 2015-05-03\Example02\obj\Debug\Example02.pdb
